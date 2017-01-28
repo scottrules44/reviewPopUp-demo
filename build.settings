@@ -1,0 +1,9 @@
+settings =
+{
+	plugins = {
+		["plugin.reviewPopUp"] =
+	        {
+	            publisherId = "tech.scotth",
+	        },
+	},
+}
