@@ -4,6 +4,7 @@ settings =
 		["plugin.reviewPopUp"] =
 	        {
 	            publisherId = "tech.scotth",
+		    marketplaceId = "insert your id here",
 	        },
 	},
 }
